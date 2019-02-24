@@ -1,6 +1,8 @@
 language: csharp
 mono:
   - latest
+install:
+  - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
 script:
   - echo '#!/bin/bash' > ./xcopy
   - echo 'cp -r $1 $2' >> ./xcopy
