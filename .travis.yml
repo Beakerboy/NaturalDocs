@@ -12,4 +12,5 @@ script:
   - msbuild /p:Configuration=Release Engine.Tests/Engine.Tests.csproj
   - cp Engine/Resources/Translations/NaturalDocs.Engine.default.txt ./Engine.Tests/bin/Release/Translations
   - cp -r Engine/Resources/Config Engine.Tests/bin/Release/
+  - cp -r Engine/Resources/Styles Engine.Tests/bin/Release/
   - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./Engine.Tests/bin/Release/NaturalDocs.Engine.Tests.dll
