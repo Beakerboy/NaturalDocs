@@ -1,6 +1,6 @@
 language: csharp
 mono:
-  - latest
+  - 4.8.1
 install:
   - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
   - sudo apt-get install gtk-sharp2
@@ -14,7 +14,7 @@ install:
   - ./configure
   - make
   - sudo make install
-  - cd ../../Beakerboy/NaturalDocs
+  - cd $TRAVIS_BUILD_DIR/
 script:
   - echo '#!/bin/bash' > ./xcopy
   - echo 'cp -r $1 $2' >> ./xcopy
