@@ -1,6 +1,6 @@
 language: csharp
 mono:
-  - 4.2.3
+  - latest
 install:
   - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
 script:
@@ -8,9 +8,9 @@ script:
   - echo 'cp -r $1 $2' >> ./xcopy
   - sudo chmod '+x' ./xcopy
   - sudo mv ./xcopy /bin
-  - xbuild /p:Configuration=Release CLI/CLI.csproj
-  - xbuild /p:Configuration=Release Engine.Tests/Engine.Tests.csproj
-  - cp -r Engine/Resources/Translations Engine.Tests/bin/Release/
-  - cp -r Engine/Resources/Config Engine.Tests/bin/Release/
-  - cp -r Engine/Resources/Styles Engine.Tests/bin/Release/
+  - msbuild /p:Configuration=Release CLI/CLI.csproj
+  - msbuild /p:Configuration=Release Engine.Tests/Engine.Tests.csproj
+#  - cp -r Engine/Resources/Translations Engine.Tests/bin/Release/
+#  - cp -r Engine/Resources/Config Engine.Tests/bin/Release/
+#  - cp -r Engine/Resources/Styles Engine.Tests/bin/Release/
   - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./Engine.Tests/bin/Release/NaturalDocs.Engine.Tests.dll
