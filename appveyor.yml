@@ -6,7 +6,7 @@ environment:
     - NaturalDocsProj: Engine.Tests/Engine.Tests.csproj
     - NaturalDocsProj: CLI/CLI.csproj
 before_build:
-  - nuget restore $NaturalDocsProj
+  - nuget restore Engine.Tests/Engine.Tests.csproj
   - choco install opencover.portable
   - choco install codecov
 build:
