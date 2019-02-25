@@ -8,8 +8,8 @@ script:
   - echo 'cp -r $1 $2' >> ./xcopy
   - sudo chmod '+x' ./xcopy
   - sudo mv ./xcopy /bin
-  - msbuild /p:Configuration=Release CLI/CLI.csproj
-  - msbuild /p:Configuration=Release Engine.Tests/Engine.Tests.csproj
+  - xbuild /p:Configuration=Release CLI/CLI.csproj
+  - xbuild /p:Configuration=Release Engine.Tests/Engine.Tests.csproj
   - cp -r Engine/Resources/Translations Engine.Tests/bin/Release/
   - cp -r Engine/Resources/Config Engine.Tests/bin/Release/
   - cp -r Engine/Resources/Styles Engine.Tests/bin/Release/
