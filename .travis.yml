@@ -5,7 +5,7 @@ install:
   - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
 script:
   - echo '#!/bin/bash' > ./xcopy
-  - echo 'string2='/*'
+  - echo 'string2='/*' >> ./xcopy
   - echo 'cp -r $1$string2 $2' >> ./xcopy
   - sudo chmod '+x' ./xcopy
   - sudo mv ./xcopy /bin
