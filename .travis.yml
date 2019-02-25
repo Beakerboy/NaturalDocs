@@ -5,7 +5,8 @@ install:
   - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
 script:
   - echo '#!/bin/bash' > ./xcopy
-  - echo 'cp -r $1 $2' >> ./xcopy
+  - echo 'string2='/*'
+  - echo 'cp -r $1$string2 $2' >> ./xcopy
   - sudo chmod '+x' ./xcopy
   - sudo mv ./xcopy /bin
   - msbuild /p:Configuration=Release CLI/CLI.csproj
