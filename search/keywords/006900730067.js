@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isg",["Property"],[["IsGroup",,[["CodeClear.NaturalDocs.Engine.Topics.Topic",,,,0,"File2:Topics/Topic.cs:CodeClear.NaturalDocs.Engine.Topics.Topic.IsGroup","CSharpClass:CodeClear.NaturalDocs.Engine.Topics.Topic:IsGroup"]]]]);

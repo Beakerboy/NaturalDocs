@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pyt",["Class"],[["Python",,[["CodeClear.NaturalDocs.Engine.Languages.Parsers",,,,0,"File2:Languages/Parsers/Python.cs:CodeClear.NaturalDocs.Engine.Languages.Parsers.Python","CSharpClass:CodeClear.NaturalDocs.Engine.Languages.Parsers.Python"]]]]);

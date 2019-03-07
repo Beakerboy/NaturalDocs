@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("bug",["Property"],[["BugFixVersion",,[["CodeClear.NaturalDocs.Engine.Version",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.BugFixVersion","CSharpClass:CodeClear.NaturalDocs.Engine.Version:BugFixVersion"]]]]);

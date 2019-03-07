@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ben",["Variable"],[["benchmark",,[["CodeClear.NaturalDocs.CLI.Application",,,,0,"File:Application.cs:CodeClear.NaturalDocs.CLI.Application.benchmark","CSharpClass:CodeClear.NaturalDocs.CLI.Application:benchmark"]]]]);

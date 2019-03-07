@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.UnexpectedResult",{2904:"<div class=\"NDToolTip TClass LCSharp\"><div class=\"TTSummary\">Thrown when SQLite returns an unexpected result code</div></div>"});

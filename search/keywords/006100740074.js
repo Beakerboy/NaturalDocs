@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("att",["Enumeration"],[["AttributeTarget",,[["CodeClear.NaturalDocs.Engine.Languages.Parsers.CSharp",,,,0,"File2:Languages/Parsers/CSharp.cs:CodeClear.NaturalDocs.Engine.Languages.Parsers.CSharp.AttributeTarget","CSharpClass:CodeClear.NaturalDocs.Engine.Languages.Parsers.CSharp:AttributeTarget"]]]]);

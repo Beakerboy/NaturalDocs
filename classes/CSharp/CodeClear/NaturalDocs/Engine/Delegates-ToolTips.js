@@ -1,0 +1,1 @@
+NDContentPage.OnToolTipsLoaded({4009:"<div class=\"NDToolTip TDelegate LCSharp\"><div id=\"NDPrototype4009\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public delegate bool</span> CancelDelegate ()</div><div class=\"TTSummary\">A delegate that returns a bool of whether to cancel an operation or not.</div></div>"});

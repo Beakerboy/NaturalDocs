@@ -1,0 +1,1 @@
+NDContentPage.OnToolTipsLoaded({2303:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype2303\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> PageType : <span class=\"SHKeyword\">byte</span></div><div class=\"TTSummary\">Used for specifying the type of page something applies to.</div></div>"});

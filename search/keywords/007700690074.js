@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("wit",["Property"],[["WithoutLastSegment",,[["CodeClear.NaturalDocs.Engine.Symbols.SymbolString",,,,0,"File2:Symbols/SymbolString.cs:CodeClear.NaturalDocs.Engine.Symbols.SymbolString.WithoutLastSegment","CSharpClass:CodeClear.NaturalDocs.Engine.Symbols.SymbolString:WithoutLastSegment"]]]]);

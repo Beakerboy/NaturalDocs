@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("fra",["Constant"],[["Frame",,[["CodeClear.NaturalDocs.Engine.Output.Builders.HTML.PageType",,,,0,"File2:Output/Builders/HTML.cs:CodeClear.NaturalDocs.Engine.Output.Builders.HTML.PageType.Frame","CSharpClass:CodeClear.NaturalDocs.Engine.Output.Builders.HTML:Frame"]]]]);

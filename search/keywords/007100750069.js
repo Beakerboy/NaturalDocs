@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("qui",["Variable"],[["quiet",,[["CodeClear.NaturalDocs.CLI.Application",,,,0,"File:Application.cs:CodeClear.NaturalDocs.CLI.Application.quiet","CSharpClass:CodeClear.NaturalDocs.CLI.Application:quiet"]]]]);

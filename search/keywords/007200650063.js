@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("rec",["Variable"],[["recalculateProperties",,[["CodeClear.NaturalDocs.Engine.Topics.TopicGroup",,,,0,"File2:Topics/TopicGroup.cs:CodeClear.NaturalDocs.Engine.Topics.TopicGroup.recalculateProperties","CSharpClass:CodeClear.NaturalDocs.Engine.Topics.TopicGroup:recalculateProperties"]]]]);

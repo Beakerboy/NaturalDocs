@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("poi",["Information"],[["Pointer",,[[,"Pointer Types and Unsafe Code",,,0,"File2:Languages/Parsers/CSharp_Notes.txt:Pointer_Types_and_Unsafe_Code"]]]]);

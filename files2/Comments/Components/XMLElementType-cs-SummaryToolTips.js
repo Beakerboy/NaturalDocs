@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File2:Comments/Components/XMLElementType.cs",{537:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype537\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> XMLElementType : <span class=\"SHKeyword\">byte</span></div></div>"});

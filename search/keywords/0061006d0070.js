@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("amp",["Variable"],[["AmpersandOrOpeningBracket",,[["CodeClear.NaturalDocs.Engine.NDMarkup.Iterator",,,,0,"File2:NDMarkup/Iterator.cs:CodeClear.NaturalDocs.Engine.NDMarkup.Iterator.AmpersandOrOpeningBracket","CSharpClass:CodeClear.NaturalDocs.Engine.NDMarkup.Iterator:AmpersandOrOpeningBracket"]]]]);

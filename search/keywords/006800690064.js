@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("hid",["Variable"],[["hideIfShorterThan",,[["CodeClear.NaturalDocs.CLI.StatusManager",,,,0,"File:StatusManager.cs:CodeClear.NaturalDocs.CLI.StatusManager.hideIfShorterThan","CSharpClass:CodeClear.NaturalDocs.CLI.StatusManager:hideIfShorterThan"]]]]);

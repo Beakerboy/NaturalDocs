@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("mil",["Property"],[["Milliseconds",,[["CodeClear.NaturalDocs.CLI.ExecutionTimer.TimingRecord",,,,0,"File:ExecutionTimer.cs:CodeClear.NaturalDocs.CLI.ExecutionTimer.TimingRecord.Milliseconds","CSharpClass:CodeClear.NaturalDocs.CLI.ExecutionTimer.TimingRecord:Milliseconds"]]]]);

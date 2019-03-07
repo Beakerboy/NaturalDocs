@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("joi",["Function"],[["Join",,[["CodeClear.NaturalDocs.Engine.Thread",,,,0,"File2:Thread.cs:CodeClear.NaturalDocs.Engine.Thread.Join","CSharpClass:CodeClear.NaturalDocs.Engine.Thread:Join"]]]]);

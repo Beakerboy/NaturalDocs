@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("beg",["Function"],[["BeginTransaction",,[["CodeClear.NaturalDocs.Engine.CodeDB.Accessor",,,,0,"File2:CodeDB/Accessor.SQL.cs:CodeClear.NaturalDocs.Engine.CodeDB.Accessor.BeginTransaction","CSharpClass:CodeClear.NaturalDocs.Engine.CodeDB.Accessor:BeginTransaction"]]]]);

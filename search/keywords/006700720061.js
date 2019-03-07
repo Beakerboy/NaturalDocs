@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("gra",["File"],[["GracefulExit",,[[,"GracefulExit.nd",,,0,"File2:Instance.cs:GracefulExit.nd","CSharpClass:CodeClear.NaturalDocs.Engine.Instance:GracefulExit.nd"]]]]);

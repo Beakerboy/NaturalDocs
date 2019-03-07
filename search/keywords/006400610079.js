@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("day",["Property"],[["Day",,[["CodeClear.NaturalDocs.Engine.Version",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.Day","CSharpClass:CodeClear.NaturalDocs.Engine.Version:Day"]]]]);

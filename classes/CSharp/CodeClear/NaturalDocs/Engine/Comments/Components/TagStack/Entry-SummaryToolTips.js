@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("CSharpClass:CodeClear.NaturalDocs.Engine.Comments.Components.TagStack.Entry",{});

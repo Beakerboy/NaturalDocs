@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("dif",["Constant"],[["Different",,[["CodeClear.NaturalDocs.Engine.Topics.Topic.DatabaseCompareResult",,,,0,"File2:Topics/Topic.cs:CodeClear.NaturalDocs.Engine.Topics.Topic.DatabaseCompareResult.Different","CSharpClass:CodeClear.NaturalDocs.Engine.Topics.Topic:Different"]]]]);

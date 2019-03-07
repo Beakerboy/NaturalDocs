@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("shu",["Function"],[["ShutDown",,[["CodeClear.NaturalDocs.Engine.SQLite.API",,,,0,"File2:SQLite/API.cs:CodeClear.NaturalDocs.Engine.SQLite.API.ShutDown","CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.API:ShutDown"]]]]);

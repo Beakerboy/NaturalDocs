@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("act",["Variable"],[["activeLocks",,[["CodeClear.NaturalDocs.Engine.CodeDB.Lock",,,,0,"File2:CodeDB/Lock.cs:CodeClear.NaturalDocs.Engine.CodeDB.Lock.activeLocks","CSharpClass:CodeClear.NaturalDocs.Engine.CodeDB.Lock:activeLocks"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("yea",["Property"],[["Year",,[["CodeClear.NaturalDocs.Engine.Version",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.Year","CSharpClass:CodeClear.NaturalDocs.Engine.Version:Year"]]]]);

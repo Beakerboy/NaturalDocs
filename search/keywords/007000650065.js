@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pee",["Function"],[["Peek",,[["CodeClear.NaturalDocs.Engine.Collections.SafeStack",,,,0,"File2:Collections/SafeStack.cs:CodeClear.NaturalDocs.Engine.Collections.SafeStack.Peek","CSharpClass:CodeClear.NaturalDocs.Engine.Collections.SafeStack:Peek"]]]]);

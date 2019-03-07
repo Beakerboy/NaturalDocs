@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("unc",["Constant"],[["Unchanged",,[["CodeClear.NaturalDocs.Engine.Files.FileFlags",,,,0,"File2:Files/FileFlags.cs:CodeClear.NaturalDocs.Engine.Files.FileFlags.Unchanged"]]],["UnchangedSinceClaimed",,[["CodeClear.NaturalDocs.Engine.Files.FileFlags",,,,0,"File2:Files/FileFlags.cs:CodeClear.NaturalDocs.Engine.Files.FileFlags.UnchangedSinceClaimed"]]]]);

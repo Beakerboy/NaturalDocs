@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("idf",["Function"],[["IDFromKeyword",,[["CodeClear.NaturalDocs.Engine.CommentTypes.Manager",,,,0,"File2:CommentTypes/Manager.cs:CodeClear.NaturalDocs.Engine.CommentTypes.Manager.IDFromKeyword","CSharpClass:CodeClear.NaturalDocs.Engine.CommentTypes.Manager:IDFromKeyword"]]]]);

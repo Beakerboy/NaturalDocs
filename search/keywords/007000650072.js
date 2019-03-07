@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("per",["Class","Section"],[["Perl",,[["CodeClear.NaturalDocs.Engine.Languages.Parsers",,,,0,"File2:Languages/Parsers/Perl.cs:CodeClear.NaturalDocs.Engine.Languages.Parsers.Perl","CSharpClass:CodeClear.NaturalDocs.Engine.Languages.Parsers.Perl"],[,"Perl Parser Notes",,,1,"File2:Languages/Parsers/Perl_Notes.txt:Perl_Parser_Notes"]]]]);

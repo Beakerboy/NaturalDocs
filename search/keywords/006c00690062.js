@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("lib",["Function"],[["LibVersion",,[["CodeClear.NaturalDocs.Engine.SQLite.API",,,,0,"File2:SQLite/API.cs:CodeClear.NaturalDocs.Engine.SQLite.API.LibVersion","CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.API:LibVersion"]]]]);

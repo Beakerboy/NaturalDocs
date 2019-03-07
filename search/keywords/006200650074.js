@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("bet",["Constant"],[["Beta",,[["CodeClear.NaturalDocs.Engine.Version.ReleaseType",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.ReleaseType.Beta","CSharpClass:CodeClear.NaturalDocs.Engine.Version:Beta"]]]]);

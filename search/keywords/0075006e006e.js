@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("unn",["Variable"],[["unnormalizedSeparators",,[["CodeClear.NaturalDocs.Engine.Path",,,,0,"File2:Path.cs:CodeClear.NaturalDocs.Engine.Path.unnormalizedSeparators","CSharpClass:CodeClear.NaturalDocs.Engine.Path:unnormalizedSeparators"]]]]);

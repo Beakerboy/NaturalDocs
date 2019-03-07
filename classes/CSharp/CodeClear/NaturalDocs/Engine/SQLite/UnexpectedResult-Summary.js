@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.UnexpectedResult","UnexpectedResult");NDSummary.OnSummaryLoaded("CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.UnexpectedResult",[["C#","CSharp"]],[["Classes","Class"]],[[2904,0,0,"<span class=\"Qualifier\">CodeClear.&#8203;NaturalDocs.&#8203;Engine.&#8203;SQLite.</span>&#8203;UnexpectedResult"]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("dim",["Property"],[["DimensionsKnown",,[["CodeClear.NaturalDocs.Engine.Files.ImageFile",,,,0,"File2:Files/ImageFile.cs:CodeClear.NaturalDocs.Engine.Files.ImageFile.DimensionsKnown","CSharpClass:CodeClear.NaturalDocs.Engine.Files.ImageFile:DimensionsKnown"]]]]);

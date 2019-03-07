@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ini",["Function"],[["Initialize",,[["CodeClear.NaturalDocs.Engine.SQLite.API",,,,0,"File2:SQLite/API.cs:CodeClear.NaturalDocs.Engine.SQLite.API.Initialize","CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.API:Initialize"]]]]);

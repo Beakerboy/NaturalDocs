@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("tem",["Constant"],[["TemplateSuffix",,[["CodeClear.NaturalDocs.Engine.Tokenization.ClassPrototypeParsingType",,,,0,"File2:Tokenization/TokenTypes.cs:CodeClear.NaturalDocs.Engine.Tokenization.ClassPrototypeParsingType.TemplateSuffix"]]]]);

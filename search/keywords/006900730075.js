@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("isu",["Function"],[["IsURLProtocol",,[["CodeClear.NaturalDocs.Engine.Comments.Parsers.NaturalDocs",,,,0,"File2:Comments/Parsers/NaturalDocs.cs:CodeClear.NaturalDocs.Engine.Comments.Parsers.NaturalDocs.IsURLProtocol","CSharpClass:CodeClear.NaturalDocs.Engine.Comments.Parsers.NaturalDocs:IsURLProtocol"]]]]);

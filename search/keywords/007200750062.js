@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("rub",["Class"],[["Ruby",,[["CodeClear.NaturalDocs.Engine.Languages.Parsers",,,,0,"File2:Languages/Parsers/Ruby.cs:CodeClear.NaturalDocs.Engine.Languages.Parsers.Ruby","CSharpClass:CodeClear.NaturalDocs.Engine.Languages.Parsers.Ruby"]]]]);

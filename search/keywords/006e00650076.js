@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("nev",["Property"],[["NeverCancel",,[["CodeClear.NaturalDocs.Engine.Delegates",,,,0,"File2:Delegates.cs:CodeClear.NaturalDocs.Engine.Delegates.NeverCancel","CSharpClass:CodeClear.NaturalDocs.Engine.Delegates:NeverCancel"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pub",["Constant"],[["Public",,[["CodeClear.NaturalDocs.Engine.Languages.AccessLevel",,,,0,"File2:Languages/AccessLevel.cs:CodeClear.NaturalDocs.Engine.Languages.AccessLevel.Public"]]]]);

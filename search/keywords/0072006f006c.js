@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("rol",["Function"],[["RollbackTransactionForException",,[["CodeClear.NaturalDocs.Engine.CodeDB.Accessor",,,,0,"File2:CodeDB/Accessor.SQL.cs:CodeClear.NaturalDocs.Engine.CodeDB.Accessor.RollbackTransactionForException","CSharpClass:CodeClear.NaturalDocs.Engine.CodeDB.Accessor:RollbackTransactionForException"]]]]);

@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File2:Languages/AccessLevel.cs",{1935:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1935\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> AccessLevel : <span class=\"SHKeyword\">byte</span></div><div class=\"TTSummary\">An enum representing a member access level.</div></div>"});

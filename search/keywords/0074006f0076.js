@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("tov",["Function"],[["ToVersionInt",,[["CodeClear.NaturalDocs.Engine.Version",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.ToVersionInt","CSharpClass:CodeClear.NaturalDocs.Engine.Version:ToVersionInt"]]]]);

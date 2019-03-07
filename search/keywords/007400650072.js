@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ter",["Variable"],[["Term",,[["CodeClear.NaturalDocs.Engine.Comments.Parsers.XML.ListItem",,,,0,"File2:Comments/Parsers/XML.cs:CodeClear.NaturalDocs.Engine.Comments.Parsers.XML.ListItem.Term","CSharpClass:CodeClear.NaturalDocs.Engine.Comments.Parsers.XML.ListItem:Term"]]]]);

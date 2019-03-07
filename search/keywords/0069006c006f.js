@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ilo",["Interface"],[["ILookupKey",,[["CodeClear.NaturalDocs.Engine.Collections",,,,0,"File2:Collections/ILookupKey.cs:CodeClear.NaturalDocs.Engine.Collections.ILookupKey","CSharpClass:CodeClear.NaturalDocs.Engine.Collections.ILookupKey"]]]]);

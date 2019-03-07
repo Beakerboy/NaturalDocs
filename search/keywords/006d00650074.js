@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("met",["Constant"],[["Metadata",,[["CodeClear.NaturalDocs.Engine.Tokenization.SyntaxHighlightingType",,,,0,"File2:Tokenization/TokenTypes.cs:CodeClear.NaturalDocs.Engine.Tokenization.SyntaxHighlightingType.Metadata"]]]]);

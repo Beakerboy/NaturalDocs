@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ban",["Variable"],[["BannedKeywordChars",,[["CodeClear.NaturalDocs.Engine.CommentTypes.Comments_txt",,,,0,"File2:CommentTypes/Comments_txt.cs:CodeClear.NaturalDocs.Engine.CommentTypes.Comments_txt.BannedKeywordChars","CSharpClass:CodeClear.NaturalDocs.Engine.CommentTypes.Comments_txt:BannedKeywordChars"]]]]);

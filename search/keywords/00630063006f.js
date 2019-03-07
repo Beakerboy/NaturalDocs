@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cco",["Variable"],[["CColumnOrder",,[["CodeClear.NaturalDocs.Engine.Output.Components.HTMLPrototype",,,,0,"File2:Output/Components/HTMLPrototype.cs:CodeClear.NaturalDocs.Engine.Output.Components.HTMLPrototype.CColumnOrder","CSharpClass:CodeClear.NaturalDocs.Engine.Output.Components.HTMLPrototype:CColumnOrder"]]]]);

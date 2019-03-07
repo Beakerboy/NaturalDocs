@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File2:Files/InputType.cs",{1356:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype1356\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> InputType : <span class=\"SHKeyword\">byte</span></div><div class=\"TTSummary\">The type of FileSource being represented.</div></div>"});

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ids",["Information"],[["IDs",,[["CodeClear.NaturalDocs.Engine.CodeDB.Manager","Used IDs and Transactions",,,0,"File2:CodeDB/Manager.cs:CodeClear.NaturalDocs.Engine.CodeDB.Manager.Used_IDs_and_Transactions","CSharpClass:CodeClear.NaturalDocs.Engine.CodeDB.Manager:Used_IDs_and_Transactions"]]]]);

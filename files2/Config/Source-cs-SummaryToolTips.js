@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File2:Config/Source.cs",{981:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype981\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> Source : <span class=\"SHKeyword\">byte</span></div><div class=\"TTSummary\">A configuration source.</div></div>"});

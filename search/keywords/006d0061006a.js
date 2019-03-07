@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("maj",["Property"],[["MajorVersion",,[["CodeClear.NaturalDocs.Engine.Version",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.MajorVersion","CSharpClass:CodeClear.NaturalDocs.Engine.Version:MajorVersion"]]]]);

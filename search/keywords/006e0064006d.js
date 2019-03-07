@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ndm",["Function"],[["NDMarkupCodeToText",,[["CodeClear.NaturalDocs.Engine.Output.Components.HTMLTopic",,,,0,"File2:Output/Components/HTMLTopic.cs:CodeClear.NaturalDocs.Engine.Output.Components.HTMLTopic.NDMarkupCodeToText","CSharpClass:CodeClear.NaturalDocs.Engine.Output.Components.HTMLTopic:NDMarkupCodeToText"]]]]);

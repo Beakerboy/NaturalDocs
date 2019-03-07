@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("oth",["Constant"],[["Other",,[["CodeClear.NaturalDocs.Engine.Output.Builders.HTML.PageType",,,,0,"File2:Output/Builders/HTML.cs:CodeClear.NaturalDocs.Engine.Output.Builders.HTML.PageType.Other","CSharpClass:CodeClear.NaturalDocs.Engine.Output.Builders.HTML:Other"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("run",["Constant"],[["Run",,[["CodeClear.NaturalDocs.CLI.Application.ParseCommandLineResult",,,,0,"File:Application.CommandLine.cs:CodeClear.NaturalDocs.CLI.Application.ParseCommandLineResult.Run","CSharpClass:CodeClear.NaturalDocs.CLI.Application:Run"]]]]);

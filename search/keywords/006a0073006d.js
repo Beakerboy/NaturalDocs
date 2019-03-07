@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("jsm",["Class"],[["JSMenuData",,[["CodeClear.NaturalDocs.Engine.Output.Components",,,,0,"File2:Output/Components/JSMenuData.cs:CodeClear.NaturalDocs.Engine.Output.Components.JSMenuData","CSharpClass:CodeClear.NaturalDocs.Engine.Output.Components.JSMenuData"]]]]);

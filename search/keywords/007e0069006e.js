@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("~in",["Function"],[["~Instance",,[["CodeClear.NaturalDocs.Engine.Instance",,,,0,"File2:Instance.cs:CodeClear.NaturalDocs.Engine.Instance.~Instance","CSharpClass:CodeClear.NaturalDocs.Engine.Instance:~Instance"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("lit",["Constant"],[["Literal",,[["CodeClear.NaturalDocs.Engine.Collections.KeySettings",,,,0,"File2:Collections/KeySettings.cs:CodeClear.NaturalDocs.Engine.Collections.KeySettings.Literal"]]]]);

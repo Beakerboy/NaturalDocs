@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File2:Comments/Components/JavadocElementType.cs",{595:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype595\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> JavadocElementType : <span class=\"SHKeyword\">byte</span></div></div>"});

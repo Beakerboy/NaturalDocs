@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sin",["Variable"],[["singularKeywords",,[["CodeClear.NaturalDocs.Engine.CommentTypes.Manager",,,,0,"File2:CommentTypes/Manager.cs:CodeClear.NaturalDocs.Engine.CommentTypes.Manager.singularKeywords","CSharpClass:CodeClear.NaturalDocs.Engine.CommentTypes.Manager:singularKeywords"]]]]);

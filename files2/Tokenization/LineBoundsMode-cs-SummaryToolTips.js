@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File2:Tokenization/LineBoundsMode.cs",{3477:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype3477\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> LineBoundsMode</div><div class=\"TTSummary\">An option that determines what should be considered the beginning and end of a line.</div></div>"});

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("dev",["Constant"],[["Development",,[["CodeClear.NaturalDocs.Engine.Version.ReleaseType",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.ReleaseType.Development","CSharpClass:CodeClear.NaturalDocs.Engine.Version:Development"]]]]);

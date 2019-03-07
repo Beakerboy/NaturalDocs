@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("unk",["Constant"],[["Unknown",,[["CodeClear.NaturalDocs.Engine.Languages.AccessLevel",,,,0,"File2:Languages/AccessLevel.cs:CodeClear.NaturalDocs.Engine.Languages.AccessLevel.Unknown"]]]]);

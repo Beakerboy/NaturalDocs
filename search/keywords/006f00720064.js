@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ord",["Information"],[["Order",,[["CodeClear.NaturalDocs.Engine.Instance","Module Start Order",,,0,"File2:Instance.cs:CodeClear.NaturalDocs.Engine.Instance.Module_Start_Order","CSharpClass:CodeClear.NaturalDocs.Engine.Instance:Module_Start_Order"]]]]);

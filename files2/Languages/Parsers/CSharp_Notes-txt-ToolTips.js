@@ -1,0 +1,1 @@
+NDContentPage.OnToolTipsLoaded({1622:"<div class=\"NDToolTip TGroup LTextFile\"><div class=\"TTSummary\">These language elements are not supported by the parser.</div></div>"});

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("csh",["Class"],[["CSharp",,[["CodeClear.NaturalDocs.Engine.Languages.Parsers",,,,0,"File2:Languages/Parsers/CSharp.cs:CodeClear.NaturalDocs.Engine.Languages.Parsers.CSharp","CSharpClass:CodeClear.NaturalDocs.Engine.Languages.Parsers.CSharp"]]]]);

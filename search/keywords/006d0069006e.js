@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("min",["Property"],[["MinorVersion",,[["CodeClear.NaturalDocs.Engine.Version",,,,0,"File2:Version.cs:CodeClear.NaturalDocs.Engine.Version.MinorVersion","CSharpClass:CodeClear.NaturalDocs.Engine.Version:MinorVersion"]]]]);

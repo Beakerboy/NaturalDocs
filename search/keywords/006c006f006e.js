@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("lon",["Function"],[["LongColumn",,[["CodeClear.NaturalDocs.Engine.SQLite.Query",,,,0,"File2:SQLite/Query.cs:CodeClear.NaturalDocs.Engine.SQLite.Query.LongColumn","CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.Query:LongColumn"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("unl",["Constant"],[["Unlocked",,[["CodeClear.NaturalDocs.Engine.CodeDB.Lock.State",,,,0,"File2:CodeDB/Lock.cs:CodeClear.NaturalDocs.Engine.CodeDB.Lock.State.Unlocked","CSharpClass:CodeClear.NaturalDocs.Engine.CodeDB.Lock:Unlocked"]]]]);

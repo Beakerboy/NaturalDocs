@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("toh",["Function"],[["ToHTML",,[["CodeClear.NaturalDocs.Engine.StringExtensions",,,,0,"File2:StringExtensions.cs:CodeClear.NaturalDocs.Engine.StringExtensions.ToHTML","CSharpClass:CodeClear.NaturalDocs.Engine.StringExtensions:ToHTML"]]]]);

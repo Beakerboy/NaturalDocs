@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("sto",["Variable"],[["stopWatch",,[["CodeClear.NaturalDocs.CLI.ExecutionTimer.TimingRecord",,,,0,"File:ExecutionTimer.cs:CodeClear.NaturalDocs.CLI.ExecutionTimer.TimingRecord.stopWatch","CSharpClass:CodeClear.NaturalDocs.CLI.ExecutionTimer.TimingRecord:stopWatch"]]]]);

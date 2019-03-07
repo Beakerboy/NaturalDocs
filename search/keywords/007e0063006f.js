@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("~co",["Function"],[["~Connection",,[["CodeClear.NaturalDocs.Engine.SQLite.Connection",,,,0,"File2:SQLite/Connection.cs:CodeClear.NaturalDocs.Engine.SQLite.Connection.~Connection","CSharpClass:CodeClear.NaturalDocs.Engine.SQLite.Connection:~Connection"]]]]);

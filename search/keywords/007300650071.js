@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("seq",["Information"],[["Sequences",,[[,"Unicode Escapes Sequences in Identifiers",,,0,"File2:Languages/Parsers/CSharp_Notes.txt:Unicode_Escapes_Sequences_in_Identifiers"]]]]);

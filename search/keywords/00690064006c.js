@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("idl",["Class"],[["IDLookupCache",,[["CodeClear.NaturalDocs.Engine.CodeDB",,,,0,"File2:CodeDB/IDLookupCache.cs:CodeClear.NaturalDocs.Engine.CodeDB.IDLookupCache","CSharpClass:CodeClear.NaturalDocs.Engine.CodeDB.IDLookupCache"]]]]);

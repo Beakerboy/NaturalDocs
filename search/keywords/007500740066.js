@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("utf",["Class"],[["UTF8Marshaller",,[["CodeClear.NaturalDocs.Engine",,,,0,"File2:UTF8Marshaller.cs:CodeClear.NaturalDocs.Engine.UTF8Marshaller","CSharpClass:CodeClear.NaturalDocs.Engine.UTF8Marshaller"]]]]);

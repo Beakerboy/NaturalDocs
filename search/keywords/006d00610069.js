@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("mai",["Function"],[["Main",,[["CodeClear.NaturalDocs.CLI.Application",,,,0,"File:Application.cs:CodeClear.NaturalDocs.CLI.Application.Main","CSharpClass:CodeClear.NaturalDocs.CLI.Application:Main"]]]]);

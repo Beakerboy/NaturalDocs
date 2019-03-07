@@ -1,0 +1,1 @@
+NDContentPage.OnToolTipsLoaded({3271:"<div class=\"NDToolTip TConstant LCSharp\"><div class=\"TTSummary\">A comment symbol or part of one.</div></div>",3272:"<div class=\"NDToolTip TConstant LCSharp\"><div class=\"TTSummary\">A symbol that only provides decoration for a comment, such as part of a horizontal line.</div></div>"});

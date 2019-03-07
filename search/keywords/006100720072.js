@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("arr",["Class"],[["ArrayDidntHaveEvenLength",,[["CodeClear.NaturalDocs.Engine.Exceptions",,,,0,"File2:Exceptions/ArrayDidntHaveEvenLength.cs:CodeClear.NaturalDocs.Engine.Exceptions.ArrayDidntHaveEvenLength","CSharpClass:CodeClear.NaturalDocs.Engine.Exceptions.ArrayDidntHaveEvenLength"]]]]);

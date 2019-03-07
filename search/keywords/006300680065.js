@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("che",["Function"],[["CheckSort",,[["CodeClear.NaturalDocs.Engine.Errors.ErrorList",,,,0,"File2:Errors/ErrorList.cs:CodeClear.NaturalDocs.Engine.Errors.ErrorList.CheckSort","CSharpClass:CodeClear.NaturalDocs.Engine.Errors.ErrorList:CheckSort"]]]]);

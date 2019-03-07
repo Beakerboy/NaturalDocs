@@ -1,0 +1,1 @@
+NDSummary.OnToolTipsLoaded("File2:Comments/Components/TagForm.cs",{548:"<div class=\"NDToolTip TEnumeration LCSharp\"><div id=\"NDPrototype548\" class=\"NDPrototype NoParameterForm\"><span class=\"SHKeyword\">public enum</span> TagForm : <span class=\"SHKeyword\">byte</span></div></div>"});
